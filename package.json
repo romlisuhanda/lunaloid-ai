@@ -1,0 +1,19 @@
+{
+  "name": "lunaloid",
+  "version": "1.0.0",
+  "description": "Simple maid ai powered by openai.",
+  "main": "index.js",
+  "author": "miruchigawa",
+  "license": "Apache License 2.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/app"
+  },
+  "dependencies": {
+    "@leap-ai/sdk": "^0.0.119",
+    "chalk": "^5.2.0",
+    "fb-chat-api-temp": "ntkhang03/fb-chat-api",
+    "lunaloid-sdk": "^1.0.0"
+  }
+}
