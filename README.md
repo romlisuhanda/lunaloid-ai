@@ -46,5 +46,8 @@ To use it, you just need to type the command 'yarn start' or 'npm start' if you'
 
 <img src="/src/assets/ss.jpg" alt="Screenshot Lunaloid AI" />
 
+## License
+This project under License Apache 2.0 [Click here.](/LICENSE)
+
 ## Footer
 If you have a problem, please open an issue or DM me
