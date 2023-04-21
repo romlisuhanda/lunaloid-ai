@@ -20,9 +20,8 @@ We also need cookies for the login session to log in to our Facebook account, an
 
 You can get the cookie editor from the Chrome web store.
 
-Once you have it, paste the cookie into src/session/cookie.json and change all the keys with the name "key" to "name". 
+Once you have it, paste the cookie into src/session/cookie.json.
 
-For example, { key: "something" } becomes { name: "something" }.
 
 ## How To Use
 To use it, you just need to type the command 'yarn start' or 'npm start' if you're using npm.
@@ -51,3 +50,8 @@ This project under License Apache 2.0 [Click here.](/LICENSE)
 
 ## Footer
 If you have a problem, please open an issue or DM me
+
+## Troubleshooting
+If you got problem with cookies and using old version change all key with name "key" to "name"
+For example {"key": "something"} becomes {"name": "something"} 
+
